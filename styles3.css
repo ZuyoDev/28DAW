@@ -1,0 +1,17 @@
+@charset "UFT-8";
+
+body {
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+    background: url(https://i.postimg.cc/xdLxCTwQ/vera.png);
+    background-size: 1475px 780px;   
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+
+#rr{
+  text-align: justify;
+}
+
+#invi{
+  opacity: 0%;
+}
